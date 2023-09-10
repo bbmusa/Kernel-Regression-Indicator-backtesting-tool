@@ -1,5 +1,5 @@
 ---
-title: Naradaya
+title: KRI
 emoji: 📊
 colorFrom: blue
 colorTo: pink
